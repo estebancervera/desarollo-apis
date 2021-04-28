@@ -1,0 +1,6 @@
+[submodule "REST"]
+	path = REST
+	url = https://github.com/estebancervera/tareas-api.git
+[submodule "client"]
+	path = client
+	url = https://github.com/estebancervera/tareas-client.git
