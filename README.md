@@ -13,7 +13,7 @@ https://tareas-client-api.us-south.cf.appdomain.cloud/
 ```
 
 ### URL del API REST
-## Para recibir las tareas
+#### Para recibir las tareas
 ```
 https://tareas-rest-api.us-south.cf.appdomain.cloud/homework
 ```
